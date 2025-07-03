@@ -1,4 +1,4 @@
-# AIOT-Demos
+# Startup-Demos
 Welcome to the AIoT Demos repository! This repository showcases various demo applications in the fields of Computer Vision (CV), 5G & AI, Large Language Models (LLM) + Retrieval-Augmented Generation (RAG), Virtual Reality (VR), Generative AI, Convolutional Neural Networks (CNN), and other cutting-edge technologies. Our goal is to provide startups with a comprehensive set of examples to accelerate the development of AIoT solutions.
 
 ## Table of Contents
@@ -19,7 +19,7 @@ This repository is a collection of demo applications that highlight the capabili
 
 ## Applications & Releases
 
-| Platforms | [Generative AI](./LLM%2BRAG/) | [CV & VR](./CV_VR/) | [5G + AI](./5G%2BAI/) | [Others](./Others/) |
+| Platforms | [Generative AI](./GenAI/) | [CV & VR](./CV_VR/) | [5G + AI](./5G%2BAI/) | [Others](./Others/) |
 | --- | --- | --- | --- | --- |
 | AI PC | - | - | - | - |
 | IoT-Robotics | - | [People Counter](./CV_VR/IoT-Robotics/people_detection/) | - | - |
@@ -45,4 +45,4 @@ Startups and enthusiasts are especially encouraged to contribute to the document
 Thank you for being a part of our community!
 
 ## License
-AIOT-Demos is licensed under the **MIT License**. See [LICENSE.txt](LICENSE.txt) for the full license text.
+Startup-Demos is licensed under the **MIT License**. See [LICENSE.txt](LICENSE.txt) for the full license text.

@@ -1,4 +1,4 @@
-# AIoT-Demos/GenAI/Android
+# Startup-Demos/GenAI/Android
 
 Welcome to the AIoT Demos repository. This section focuses on developing applications using Qualcomm Snapdragon-based Android mobile phones and tablets, but is not limited to these devices.
 
